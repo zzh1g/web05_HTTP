@@ -1,0 +1,264 @@
+{
+  'response': {
+    'GeoObjectCollection': {
+      'metaDataProperty': {
+        'GeocoderResponseMetaData': {
+          'request': 'Мурманск, ул. Пушкинская, 3',
+          'results': '10',
+          'found': '3'
+        }
+      },
+      'featureMember': [
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Мурманск, Пушкинская улица, 3',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Мурманск, Пушкинская улица, 3',
+                  'postal_code': '183038',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Северо-Западный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Мурманская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'городской округ Мурманск'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Мурманск'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'Пушкинская улица'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '3'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Мурманск, Пушкинская улица, 3',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Мурманская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'городской округ Мурманск',
+                        'Locality': {
+                          'LocalityName': 'Мурманск',
+                          'Thoroughfare': {
+                            'ThoroughfareName': 'Пушкинская улица',
+                            'Premise': {
+                              'PremiseNumber': '3',
+                              'PostalCode': {
+                                'PostalCodeNumber': '183038'
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'Пушкинская улица, 3',
+            'description': 'Мурманск, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '33.077173 68.967994',
+                'upperCorner': '33.085383 68.970944'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=Cgg1Njk0MDg2OBJC0KDQvtGB0YHQuNGPLCDQnNGD0YDQvNCw0L3RgdC6LCDQn9GD0YjQutC40L3RgdC60LDRjyDRg9C70LjRhtCwLCAzIgoNOlMEQhVe8IlC',
+            'Point': {
+              'pos': '33.081278 68.969469'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Ленинградская область, Гатчинский район, Сусанинское сельское поселение, садоводческий массив Красницы, садоводческое некоммерческое товарищество Генетика, 3',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ленинградская область, Гатчинский район, Сусанинское сельское поселение, садоводческий массив Красницы, садоводческое некоммерческое товарищество Генетика, 3',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Северо-Западный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ленинградская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Гатчинский район'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Сусанинское сельское поселение'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'садоводческий массив Красницы'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'садоводческое некоммерческое товарищество Генетика'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '3'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ленинградская область, Гатчинский район, Сусанинское сельское поселение, садоводческий массив Красницы, садоводческое некоммерческое товарищество Генетика, 3',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ленинградская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Гатчинский район',
+                        'Locality': {
+                          'LocalityName': 'садоводческий массив Красницы',
+                          'DependentLocality': {
+                            'DependentLocalityName': 'садоводческое некоммерческое товарищество Генетика',
+                            'Premise': {
+                              'PremiseNumber': '3'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'садоводческое некоммерческое товарищество Генетика, 3',
+            'description': 'садоводческий массив Красницы, Сусанинское сельское поселение, Гатчинский район, Ленинградская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '30.293159 59.446666',
+                'upperCorner': '30.301369 59.450847'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgozMjk0OTU4MDE1ErQC0KDQvtGB0YHQuNGPLCDQm9C10L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwg0JPQsNGC0YfQuNC90YHQutC40Lkg0YDQsNC50L7QvSwg0KHRg9GB0LDQvdC40L3RgdC60L7QtSDRgdC10LvRjNGB0LrQvtC1INC_0L7RgdC10LvQtdC90LjQtSwg0YHQsNC00L7QstC-0LTRh9C10YHQutC40Lkg0LzQsNGB0YHQuNCyINCa0YDQsNGB0L3QuNGG0YssINGB0LDQtNC-0LLQvtC00YfQtdGB0LrQvtC1INC90LXQutC-0LzQvNC10YDRh9C10YHQutC-0LUg0YLQvtCy0LDRgNC40YnQtdGB0YLQstC-INCT0LXQvdC10YLQuNC60LAsIDMiCg3KYPJBFYfLbUI,',
+            'Point': {
+              'pos': '30.297264 59.448757'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'street',
+                'text': 'Россия, Ленинградская область, Гатчинский район, Сусанинское сельское поселение, садоводческий массив Красницы, садоводческое некоммерческое товарищество Генетика, Пушкинская улица',
+                'kind': 'street',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Ленинградская область, Гатчинский район, Сусанинское сельское поселение, садоводческий массив Красницы, садоводческое некоммерческое товарищество Генетика, Пушкинская улица',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Северо-Западный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Ленинградская область'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Гатчинский район'
+                    },
+                    {
+                      'kind': 'area',
+                      'name': 'Сусанинское сельское поселение'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'садоводческий массив Красницы'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'садоводческое некоммерческое товарищество Генетика'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'Пушкинская улица'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Ленинградская область, Гатчинский район, Сусанинское сельское поселение, садоводческий массив Красницы, садоводческое некоммерческое товарищество Генетика, Пушкинская улица',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Ленинградская область',
+                      'SubAdministrativeArea': {
+                        'SubAdministrativeAreaName': 'Гатчинский район',
+                        'Locality': {
+                          'LocalityName': 'садоводческий массив Красницы',
+                          'DependentLocality': {
+                            'DependentLocalityName': 'садоводческое некоммерческое товарищество Генетика',
+                            'Thoroughfare': {
+                              'ThoroughfareName': 'Пушкинская улица'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'Пушкинская улица',
+            'description': 'садоводческое некоммерческое товарищество Генетика, садоводческий массив Красницы, Сусанинское сельское поселение, Гатчинский район, Ленинградская область, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '30.294335 59.448066',
+                'upperCorner': '30.303579 59.454191'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgoxNTMyODMzNDQwEtIC0KDQvtGB0YHQuNGPLCDQm9C10L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwg0JPQsNGC0YfQuNC90YHQutC40Lkg0YDQsNC50L7QvSwg0KHRg9GB0LDQvdC40L3RgdC60L7QtSDRgdC10LvRjNGB0LrQvtC1INC_0L7RgdC10LvQtdC90LjQtSwg0YHQsNC00L7QstC-0LTRh9C10YHQutC40Lkg0LzQsNGB0YHQuNCyINCa0YDQsNGB0L3QuNGG0YssINGB0LDQtNC-0LLQvtC00YfQtdGB0LrQvtC1INC90LXQutC-0LzQvNC10YDRh9C10YHQutC-0LUg0YLQvtCy0LDRgNC40YnQtdGB0YLQstC-INCT0LXQvdC10YLQuNC60LAsINCf0YPRiNC60LjQvdGB0LrQsNGPINGD0LvQuNGG0LAiCg3qY_JBFUHObUI,',
+            'Point': {
+              'pos': '30.298782 59.451419'
+            }
+          }
+        }
+      ]
+    }
+  }
+}
